@@ -1,3 +1,6 @@
+> **Repository classification:** Upstream infrastructure source snapshot · **Maintenance:** Historical reference, not an actively maintained personal application.
+> Original upstream documentation is preserved below.
+
 # Tailscale
 
 https://tailscale.com
